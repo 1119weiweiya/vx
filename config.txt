@@ -23,7 +23,7 @@
 # 在一起的日子，格式同上
 "love_date": "2022-04-15",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "你与我总是在落叶间舞起余生和灵魂。",
+"note_ch": "钱财少，不烦恼",
 # 金句英文
-"note_en": "You and I always dance the rest of our lives and souls among the fallen leaves."
+"note_en": "Little goods, little care."
 }
