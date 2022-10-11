@@ -23,7 +23,7 @@
 # 在一起的日子，格式同上
 "love_date": "2022-06-5",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "",
+"note_ch": "钱财少，不烦恼",
 # 金句英文
 "note_en": "Little goods, little care."
 }
